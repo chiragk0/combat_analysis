@@ -1,1 +1,4 @@
-A comprehensive analysis on what makes a successful UFC fighter using statistical analysi
+# Combat Analysis
+
+<p> As a fan of the UFC and combat sports as a whole, I've always thought about the most common physical traits that can be attributed to champioms in their respective weight classes, and more specifically, what makes the best pound for pound UFC chamption. 
+</p>
