@@ -6,7 +6,7 @@
 
 ### Objectives 
 
-- Find the most effective stance (orthodox, southpaw, swtich, open stance, sideways) for fighting
+- Find the most effective stance (orthodox, southpaw, switch, open stance, sideways) for fighting
 - Identify the genetic characteristics and conduct popularity analysis of each weight division
 - Visualize the most important determinants for a UFC champion.
 
