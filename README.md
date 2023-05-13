@@ -14,4 +14,4 @@
 
 - Correlation matrix of a few columns w/ seaborn heatmap for color grading
 - Multiple Regression Analysis to find deeper relationships between variables
-- Analyze fighter performance to find their best chance of victory against another oppopent
+- Analyze fighter performance to find their best chance of victory against another opponent
